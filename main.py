@@ -1,5 +1,4 @@
 import json
-
 import cv2
 from tkinter import *
 from tkinter import filedialog
